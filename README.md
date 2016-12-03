@@ -1,4 +1,4 @@
-# Project Title
+# CSS Quiz Game for Preschool Children
 
 This is a Quiz Game for children which was the assignment1 of  Web Engineering course. In this project the restriction was to use no more than 5 images. There are two parts alphabets learning part and the quiz part.
 
